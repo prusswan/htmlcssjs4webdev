@@ -16,7 +16,7 @@
 .page-section {
   margin: 10px;
 
-  background: grey;
+  background: silver;
   color: black;
   font-size: 20px;
   border: 1px solid black;
@@ -24,7 +24,7 @@
 }
 
 .section-title {
-  width: 100px;
+  width: 150px;
   padding: 5px;
   text-align: center;
   float: right;
@@ -47,7 +47,7 @@
 
 .section-body {
   height: 300px;
-  margin-top: 40px;
+  margin-top: 50px;
   padding: 10px;
   overflow-y: auto;
 }

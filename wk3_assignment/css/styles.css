@@ -1,3 +1,15 @@
-body {
-  padding-top: 70px;
+.page-section {
+  background: silver;
+  margin: 10px;
+}
+
+.section-title {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.section-body {
+  padding: 10px;
+  height: 400px;
+  overflow-y: auto;
 }

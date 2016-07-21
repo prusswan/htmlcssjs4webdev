@@ -1,15 +1,15 @@
-.page-section {
-  background: silver;
-  margin: 10px;
-}
-
 .section-title {
   padding: 10px;
   font-weight: bold;
 }
 
 .section-body {
+  background: silver;
   padding: 10px;
   height: 400px;
   overflow-y: auto;
+}
+
+.page-row {
+  padding: 15px;
 }
